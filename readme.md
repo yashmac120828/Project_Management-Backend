@@ -306,7 +306,7 @@ Special thanks to all contributors and the Node.js community for making backend 
 
 ## 📞 Support & Contact
 
-- **📧 Email:** [your-email@example.com](mailto:yashmachhi1408@gmail.com)
+- **📧 Email:** [yashmachhi1408@gmail.com](mailto:yashmachhi1408@gmail.com)
 - **🐛 Issues:** [GitHub Issues](https://github.com/yashmac120828/Project_Management-Backend/issues)
 - **💬 Discussions:** [GitHub Discussions](https://github.com/yashmac120828/Project_Management-Backend/discussions)
 
