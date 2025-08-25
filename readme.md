@@ -74,8 +74,8 @@ backend-project/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/backend-project.git
-cd backend-project
+git clone https://github.com/your-username/Project_Management-Backend.git
+cd Project_Management-Backend
 ```
 
 ### 2️⃣ Install Dependencies
