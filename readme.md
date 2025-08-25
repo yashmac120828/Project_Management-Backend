@@ -4,7 +4,7 @@
 ![Express](https://img.shields.io/badge/Express.js-Backend-blue?logo=express)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)  
 ![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-brightgreen?logo=swagger)  
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 This is **Phase 1** of my backend project — built with **Node.js, Express, and MongoDB**.  
 It includes **authentication, user management, JWT, cookies, and auto-generated API documentation**.
